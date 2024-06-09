@@ -6,6 +6,8 @@
 # Rewritten to use lists instead of if-statements.
 #
 
+obj-y 				+= mt7668s/bluetooth/
+obj-y				+= mt7668s/wifi/
 obj-y				+= irqchip/
 obj-y				+= bus/
 
